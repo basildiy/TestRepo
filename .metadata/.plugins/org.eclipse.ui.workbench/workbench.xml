@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="29" version="2.0">
+<workbench progressCount="32" version="2.0">
 <workbenchAdvisor/>
-<window height="768" maximized="true" width="1024" x="677" y="-14">
+<window height="638" maximized="true" width="1221" x="403" y="237">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="304"/>
 </perspectiveBar>
 <coolbarLayout locked="0">
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="153" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="org.eclipse.egit.ui.gitaction" itemType="typeToolBarContribution" x="207" y="22"/>
@@ -22,7 +22,7 @@
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.compare.CompareEditor" itemType="typeToolBarContribution" x="84" y="22"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
@@ -31,61 +31,10 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PostAndGetSteps.java" partName="PostAndGetSteps.java" path="D:/workspace/Cucumber Demo/src/main/java/com/steps/backend/PostAndGetSteps.java" title="PostAndGetSteps.java" tooltip="Demo/src/main/java/com/steps/backend/PostAndGetSteps.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Demo/src/main/java/com/steps/backend/PostAndGetSteps.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="874"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="YoutubeSearchSteps.java" partName="YoutubeSearchSteps.java" path="D:/workspace/Cucumber Demo/src/main/java/com/steps/frontend/YoutubeSearchSteps.java" title="YoutubeSearchSteps.java" tooltip="Demo/src/main/java/com/steps/frontend/YoutubeSearchSteps.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Demo/src/main/java/com/steps/frontend/YoutubeSearchSteps.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="580" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="postAndGet.feature" partName="postAndGet.feature" path="D:/Projects/DummyRepository_2_GIT/src/main/resources/features/backend/postAndGet.feature" title="postAndGet.feature" tooltip="DummyRepository_2_GIT/src/main/resources/features/backend/postAndGet.feature" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_2_GIT/src/main/resources/features/backend/postAndGet.feature"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="741" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="YoutubePostAndGetTest.java" partName="YoutubePostAndGetTest.java" path="D:/Projects/DummyRepository_2_GIT/src/test/java/backend/YoutubePostAndGetTest.java" title="YoutubePostAndGetTest.java" tooltip="DummyRepository_2_GIT/src/test/java/backend/YoutubePostAndGetTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_2_GIT/src/test/java/backend/YoutubePostAndGetTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="297" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Constants.java" partName="Constants.java" path="D:/Projects/DummyRepository_2_GIT/src/main/java/com/tools/Constants.java" title="Constants.java" tooltip="DummyRepository_2_GIT/src/main/java/com/tools/Constants.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_2_GIT/src/main/java/com/tools/Constants.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FrontendInterface.java" partName="FrontendInterface.java" path="D:/Projects/DummyRepository_2_GIT/src/main/java/com/tools/FrontendInterface.java" title="FrontendInterface.java" tooltip="DummyRepository_2_GIT/src/main/java/com/tools/FrontendInterface.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_2_GIT/src/main/java/com/tools/FrontendInterface.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WebDriverConfig.java" partName="WebDriverConfig.java" path="D:/Projects/DummyRepository_2_GIT/src/main/java/com/tools/WebDriverConfig.java" title="WebDriverConfig.java" tooltip="DummyRepository_2_GIT/src/main/java/com/tools/WebDriverConfig.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_2_GIT/src/main/java/com/tools/WebDriverConfig.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="530" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PostAndGetSteps.java" partName="PostAndGetSteps.java" path="D:/Projects/DummyRepository_2_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java" title="PostAndGetSteps.java" tooltip="DummyRepository_2_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_2_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="1526" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="YoutubeSearchSteps.java" partName="YoutubeSearchSteps.java" path="D:/Projects/DummyRepository_2_GIT/src/main/java/com/steps/frontend/YoutubeSearchSteps.java" title="YoutubeSearchSteps.java" tooltip="DummyRepository_2_GIT/src/main/java/com/steps/frontend/YoutubeSearchSteps.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_2_GIT/src/main/java/com/steps/frontend/YoutubeSearchSteps.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1062"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PostAndGetSteps.java" partName="PostAndGetSteps.java" path="D:/Projects/DummyRepository_1_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java" title="PostAndGetSteps.java" tooltip="DummyRepository_1_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyRepository_1_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="489" selectionTopPixel="204"/>
-</editor>
 </editors>
 <views>
 <view id="org.eclipse.team.ui.GenericHistoryView" partName="History"/>
@@ -231,9 +180,9 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.16396019" ratioLeft="313" ratioRight="1596" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.18491356" ratioLeft="353" ratioRight="1556" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.6427039" ratioLeft="599" ratioRight="333" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.egit.ui.RepositoriesView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
@@ -297,27 +246,32 @@
 <view id="org.eclipse.team.sync.views.SynchronizeView"/>
 <view id="org.eclipse.egit.ui.StagingView"/>
 <view id="org.eclipse.egit.ui.ReflogView"/>
-<view id="org.eclipse.egit.ui.RepositoriesView"/>
 <fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info part="org.eclipse.jdt.ui.PackageExplorer"/>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.jdt.ui.PackageExplorer">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<layout>
+<mainWindow>
+<info part="org.eclipse.jdt.ui.PackageExplorer"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.jdt.ui.PackageExplorer">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.jdt.ui.PackageExplorer"/>
-<info folder="true" part="bottom" ratio="0.49946523" ratioLeft="467" ratioRight="468" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.egit.ui.RepositoriesView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<info folder="true" part="bottom" ratio="0.49946523" ratioLeft="467" ratioRight="468" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="org.eclipse.team.ui.GenericHistoryView" label="History"/>
 <page content="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize"/>
 <page content="org.eclipse.egit.ui.StagingView" label="Git Staging"/>
 <page content="org.eclipse.egit.ui.ReflogView" label="Git Reflog"/>
-<page content="org.eclipse.egit.ui.RepositoriesView" label="Git Repositories"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<page content="org.eclipse.egit.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
-<part id="5"/>
 </presentation>
 </folder>
 </info>
@@ -326,76 +280,7 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Demo/src/main/java/com/steps/backend/PostAndGetSteps.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Demo/src/main/java/com/steps/frontend/YoutubeSearchSteps.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DummyRepositoryGIT/src/main/resources/features/backend/postAndGet.feature"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DummyRepository_2_GIT/src/main/resources/features/backend/postAndGet.feature"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_2_GIT/src/test/java/backend/YoutubePostAndGetTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_2_GIT/src/test/java/backend/YoutubePostAndGetTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_2_GIT/src/main/java/com/tools/Constants.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_2_GIT/src/main/java/com/tools/FrontendInterface.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_2_GIT/src/main/java/com/tools/WebDriverConfig.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_2_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_2_GIT/src/main/java/com/steps/frontend/YoutubeSearchSteps.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DummyRepository_1_GIT/src/main/java/com/steps/backend/PostAndGetSteps.java"/>
-</editors>
-<item historyLabel="PostAndGetSteps.java" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="YoutubeSearchSteps.java" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="postAndGet.feature" index="2">
-<position info="not_deleted" x="813" y="0"/>
-</item>
-<item historyLabel="postAndGet.feature" index="3">
-<position info="not_deleted" x="741" y="0"/>
-</item>
-<item historyLabel="postAndGet.feature" index="2">
-<position info="not_deleted" x="813" y="0"/>
-</item>
-<item historyLabel="postAndGet.feature" index="3">
-<position info="not_deleted" x="741" y="0"/>
-</item>
-<item historyLabel="YoutubePostAndGetTest.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="postAndGet.feature" index="3">
-<position info="not_deleted" x="741" y="0"/>
-</item>
-<item historyLabel="YoutubePostAndGetTest.java" index="5">
-<position info="not_deleted" x="297" y="0"/>
-</item>
-<item historyLabel="Constants.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="FrontendInterface.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="WebDriverConfig.java" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="PostAndGetSteps.java" index="9">
-<position info="not_deleted" x="1526" y="13"/>
-</item>
-<item historyLabel="YoutubeSearchSteps.java" index="10">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Constants.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="FrontendInterface.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="WebDriverConfig.java" index="8">
-<position info="not_deleted" x="530" y="0"/>
-</item>
-<item active="true" historyLabel="PostAndGetSteps.java" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
