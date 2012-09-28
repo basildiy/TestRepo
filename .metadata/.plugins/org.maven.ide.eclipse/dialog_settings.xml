@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\DummyRepository\bla"/>
 			<item value="C:\Users\vasileteoca\test"/>
 			<item value="D:\DummyRepository\.git"/>
 			<item value="D:\workspace\Cucumber Demo"/>
